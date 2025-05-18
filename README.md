@@ -1,2 +1,2 @@
-![quincy-wm.png]
+![](quincy-wm.png)
 # quincy

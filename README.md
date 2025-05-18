@@ -1,1 +1,2 @@
+![quincy-wm.png]
 # quincy
